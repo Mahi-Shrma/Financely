@@ -1,0 +1,21 @@
+.signup-wrapper{
+     width: 60%;
+     max-width: 400px;
+     height:auto;
+     box-shadow: var(--shadow);
+     padding: 1rem 1.5rem;
+     border-radius: 1rem;
+}
+.title{
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-align: center;
+}
+.login-css{
+    text-align:center;
+    margin: 15px;
+    padding-left: 15px;
+    cursor: pointer;
+    font-size:0.8rem;
+    font-weight:300;
+}
